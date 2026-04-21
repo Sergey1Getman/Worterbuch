@@ -1,0 +1,1 @@
+My Dictionary for the time i study german, will experiment with adding japanese to it in hopes of making better connection between words of different languages and cultures in my mind. Increidbly boring stuff 
