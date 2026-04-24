@@ -16,3 +16,57 @@ die Ecke(角度) - angle
 die Karte(en)(地図) - map.
 das Dorf(die Dorfer) (町) - village
 die Brücke (橋) - bridge.
+23.04.2026
+die Überschrift (見出し) - headline
+die Kleidung (服) - clothes
+die Wohngemeinschaft (kana) - dormitory
+	tollpatschig (下手) - awkward
+	einfach (簡単) - easy
+der Nachbarn (お隣さん) - neighboor
+der Studiengang (修論) - masters
+die Zunge(n) (舌) - tongue
+	fremd(海外)- foreign
+	fremde Länder - foreigner (外国人)
+das Denkmal(die Denkmäler) (仏像)- statue
+der Regenschirm(傘) - umbrella
+der Schriftstelle (作家) - writer
+	Zum Beispiel (例えば) - for example
+der Strandkorb(er) (浜辺)- beach
+der Kühlschrank (冷蔵庫) - fridge
+	leer(adj) (空っぽ)- empty
+die Heizung (kana) - radiator
+	dunkel (暗い) - dark
+der Schlüssel  (鍵) - lock
+	gemütlich (心地よい) - comfortable
+das Hemd (kana) - shirt
+dar Backofen (焼き窯) - oven
+der Wäscheständer (kana?) - drying rack
+der Spiegel (鏡)　- mirror
+	bunt (多彩) - coloful
+der Umzug (?) - to move to another apartment
+die Betreft (主語) - subject
+der Traum （夢）- dream
+der Teller (皿) - plate
+die Schere (鋏) - scissors
+die Freundschaft (友情) - friendship
+die Bank (kana) - bench
+der Himmel (空) - sky
+	Verspatung (遅れる) - to come late
+der Tagesablauf (日程) - schedule
+die Nachrichte (kana) - news
+	vierter(kana) - quarter
+	unterschiedlich(adj) (別々) - different 
+	absagen ()- to cancel
+	verschieben ()- to delay some event
+die	Panne (万一)- breakdown
+die Poesie (詩)- poetry
+ 	aus gehen （行く）- to go somewhere
+ 	einkaufen- byuing groceries
+ 	leider - Unfortunately
+ 	vielleicht(多分) - maybe
+  	tut mir leid （もし訳ない）- i'm sorry, i apologize
+  	vorschlagen (申し入れる) - to propose smth
+  	bitten (尋ねる) - to ask for smth
+  	ablehnen(断る) - to refuse smth
+  	zustimmen (取り決める) - to agree
+der Vormittag () - forenoon

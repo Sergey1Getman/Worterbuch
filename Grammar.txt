@@ -1,0 +1,10 @@
+table for sein, war, haben.
+trennbar(separable prefixes for the verbs)
+ab-, an-, auf-, aus-, bei-, da-, ein-, hin-, her-, weq-, zu-, mit-, zurück-.
+untrennbar(unseparable prefixes for the verbs)
+be-, emp-, ent-, er-, ge-, hinter-, miss-, ver-, zer-.
+durch-, hinter-, über-, um-, unter-, voll-, wieder-, wider-.
+Examples(trennbar):
+umfahren: Ich fahre das um(first mean to go around something|Ich umfahre einen Baum(second means to crash into something)
+Ich mache die Hausaufgaben nicht(untrennbar)
+Ich rufe nicht an. (trennbar)
