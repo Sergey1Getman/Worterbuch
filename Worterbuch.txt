@@ -26,7 +26,7 @@ der Nachbarn (お隣さん) - neighboor
 der Studiengang (修論) - masters
 die Zunge(n) (舌) - tongue
 	fremd(海外)- foreign
-	fremde Länder - foreigner (外国人)
+	fremde Länder (外国人)- foreigner 
 das Denkmal(die Denkmäler) (仏像)- statue
 der Regenschirm(傘) - umbrella
 der Schriftstelle (作家) - writer
@@ -56,8 +56,8 @@ der Tagesablauf (日程) - schedule
 die Nachrichte (kana) - news
 	vierter(kana) - quarter
 	unterschiedlich(adj) (別々) - different 
-	absagen ()- to cancel
-	verschieben ()- to delay some event
+	absagen (取り消す)- to cancel
+	verschieben (遅らせる)- to delay some event
 die	Panne (万一)- breakdown
 die Poesie (詩)- poetry
  	aus gehen （行く）- to go somewhere
@@ -69,4 +69,5 @@ die Poesie (詩)- poetry
   	bitten (尋ねる) - to ask for smth
   	ablehnen(断る) - to refuse smth
   	zustimmen (取り決める) - to agree
-der Vormittag () - forenoon
+der Vormittag (昼前) - forenoon
+	treffen (会う) - to meet
