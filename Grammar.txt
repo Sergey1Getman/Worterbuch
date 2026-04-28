@@ -8,3 +8,30 @@ Examples(trennbar):
 umfahren: Ich fahre das um(first mean to go around something|Ich umfahre einen Baum(second means to crash into something)
 Ich mache die Hausaufgaben nicht(untrennbar)
 Ich rufe nicht an. (trennbar)
+
+Weather report:
+der Regen - Es regnet
+Der Schnee - Es schneit
+die Sonne  - scheint - Es ist sonig(sunny).
+der Wind - Es ist windig(windy)
+
+Kirche is used mostly for describing small churches in villages.
+Die Kirche ist in ein Dorf.
+And der Dom is used when describing big churches in large cities.
+Der Dom ist in Madgeburg.
+
+Adverbien der Häufigkeit(advebs of freq uency) 
+immer – 100% (always)
+meistens – 70–90% (mostly)
+oft – 50–70% (often)
+manchmal - 20–50% (sometimes)
+selten – 5–20% (rarely)
+nie – 0% (never)
+
+Akkusativ: wohin, was wen
+Dativ: Wo,wem
+der -> dem
+das -> dem
+die -> der
+die (Pl) -> den
+
