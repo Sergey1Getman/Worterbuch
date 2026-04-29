@@ -41,7 +41,7 @@ der Schlüssel  (鍵) - lock
 	gemütlich (心地よい) - comfortable
 das Hemd (kana) - shirt
 27.04.2026
-dar Backofen (焼き窯) - oven
+der Backofen (焼き窯) - oven
 der Wäscheständer (kana?) - drying rack
 der Spiegel (鏡)　- mirror
 	bunt (多彩) - coloful
@@ -53,7 +53,8 @@ die Schere (鋏) - scissors
 die Freundschaft (友情) - friendship
 die Bank (kana) - bench
 der Himmel (空) - sky
-	Verspatung (遅れる) - to come late
+28.04.2026
+die Verspätung (遅れる) - to come late
 der Tagesablauf (日程) - schedule
 die Nachrichte (kana) - news
 	vierter(kana) - quarter
@@ -64,6 +65,7 @@ die	Panne (万一)- breakdown
 die Poesie (詩)- poetry
  	aus gehen （行く）- to go somewhere
  	einkaufen- byuing groceries
+ 29.04.2026
  	leider - Unfortunately
  	vielleicht(多分) - maybe
   	tut mir leid （もし訳ない）- i'm sorry, i apologize
@@ -85,9 +87,9 @@ die Sonne (太陽) - sun
 die Viertelstunde(kana) - quarter of an hour
 der Stau (渋滞) - traffic jam, cork(on the road)
 der Schule (学校) - school
-das Krankenhaus() - hospital
+das Krankenhaus(病院) -   hospital
 die Straßenbahn (kana) - bus
-das Rathaus ( ) - city hall
+das Rathaus (市役所) - city hall
 der Baumgarten (樹木園) - arboretum
 die Kneide (kana) - pub
 	immer – 100% (always)
@@ -97,12 +99,26 @@ die Kneide (kana) - pub
 	selten – 5–20% (rarely)
 	nie – 0% (never)
 der Satz (die Sätze) (文) - sentence.
-die Verwaltung () - administration
+die Verwaltung (政府) - administration
 der Füller(万年筆) - fountain pen
-die Zeitung () - newspaper
-der Ordner ( ) - binder
-die Tastatur () - keyboard 
-der Schrank () - cupboard
-	zwischen () - between.
-	verbunded () - connected 
-	höhenverstellbaren() - height adjustable
+die Zeitung (新聞) - newspaper
+der Ordner (kana) - binder
+die Tastatur (kana) - keyboard 
+der Schrank (戸棚) - cupboard
+	zwischen (?) - between.
+	verbunded (付く) - connected 
+	höhenverstellbaren(?) - height adjustable
+die Mitte (半ば) - middle
+die Messen (祭り) - fair
+die Ausstellen (展覧会) - exhibition
+das Lied (歌) - song
+die Vorstellung (演技) - performance
+die Aufführung (発揮) - show
+der Schalter(kana) - switch
+die Steckdose (kana) - socket outlet
+der Fußboden () - floor
+	einsteigen () - to board
+	aussteigen () - to unboard
+	umsteigen () - transfer
+das Auspuffrohr () - exhaust
+die Sperrung () - stoppage
