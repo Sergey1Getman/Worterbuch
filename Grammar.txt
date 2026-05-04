@@ -35,3 +35,13 @@ das -> dem
 die -> der
 die (Pl) -> den
 
+Das Wetter heute is sonnig, aber windig und kalt
+ 
+Verb System 
+ich → -e
+du → -st
+er / sie / es → -t
+wir → -en
+ihr → -t
+sie / Sie → -en
+

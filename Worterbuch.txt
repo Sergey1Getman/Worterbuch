@@ -27,7 +27,7 @@ der Studiengang (修論) - masters
 die Zunge(n) (舌) - tongue
 	fremd(海外)- foreign
 	fremde Länder (外国人)- foreigner 
-das Denkmal(die Denkmäler) (仏像)- statue
+das Denkmal(die Denkmäler) (仏像)- statuex
 der Regenschirm(傘) - umbrella
 26.04.2026
 der Schriftstelle (作家) - writer
@@ -66,7 +66,7 @@ die Poesie (詩)- poetry
  	aus gehen （行く）- to go somewhere
  	einkaufen- byuing groceries
  29.04.2026
- 	leider - Unfortunately
+ 	leider (生憎) - Unfortunately
  	vielleicht(多分) - maybe
   	tut mir leid （もし訳ない）- i'm sorry, i apologize
   	vorschlagen (申し入れる) - to propose smth
@@ -75,8 +75,9 @@ die Poesie (詩)- poetry
   	zustimmen (取り決める) - to agree
 der Vormittag (昼前) - forenoon
 	treffen (会う) - to meet
-	vermuten () - to suppose
-das Gebäude() - building
+	vermuten (思う) - to suppose
+das Gebäude(建物) - building
+4.05.2026
 im	Hintergrund - background
 im	Vortergrund - foreground
 das Werk () - factory
@@ -114,11 +115,29 @@ die Ausstellen (展覧会) - exhibition
 das Lied (歌) - song
 die Vorstellung (演技) - performance
 die Aufführung (発揮) - show
-der Schalter(kana) - switch
+der Schalter(kana) - switch　
 die Steckdose (kana) - socket outlet
 der Fußboden () - floor
 	einsteigen () - to board
 	aussteigen () - to unboard
 	umsteigen () - transfer
-das Auspuffrohr () - exhaust
-die Sperrung () - stoppage
+das Auspuffrohr (尽くす) - exhaust
+die Sperrung (停止) - stoppage 
+
+der Mülleimer (ゴミ爆) - dustbin
+der Müllwagen  (清掃車) - garbage truck
+der Urlaub (休暇) - holiday証拠
+der Walk (森) - forest
+die Zeitangabe () - time specification
+das Flugzeug () - plane 
+die Geschäftsreise() - buisness trip
+die	Fremdsprachenkenntnisse () - knowledge of the foreign language
+	wichtig () - important
+	verschwommen() - blurry
+	neblig () - foggy
+der Azubi () - apprentice
+	wechseln () - to swtich
+	vergleichen () - to compare
+	both () - beider
+der Herbst (秋) - autumn
+der Sommer (夏)　ー summer
