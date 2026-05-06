@@ -80,15 +80,16 @@ das Gebäude(建物) - building
 4.05.2026
 im	Hintergrund - background
 im	Vortergrund - foreground
-das Werk () - factory
+das Werk (工場) - factory
 die Wolke(n) (雲）- cloud
-der Stern (星々) - 
+der Stern (星) - star
 der Regen （雨）- rain
 die Sonne (太陽) - sun
 die Viertelstunde(kana) - quarter of an hour
 der Stau (渋滞) - traffic jam, cork(on the road)
 der Schule (学校) - school
 das Krankenhaus(病院) -   hospital
+06.05.2026
 die Straßenbahn (kana) - bus
 das Rathaus (市役所) - city hall
 der Baumgarten (樹木園) - arboretum
@@ -117,27 +118,38 @@ die Vorstellung (演技) - performance
 die Aufführung (発揮) - show
 der Schalter(kana) - switch　
 die Steckdose (kana) - socket outlet
-der Fußboden () - floor
-	einsteigen () - to board
-	aussteigen () - to unboard
-	umsteigen () - transfer
+der Fußboden (?) - floor
+	einsteigen (乗る) - to board
+	aussteigen (降りる) - to unboard
+	umsteigen (乗り換え) - transfer
 das Auspuffrohr (尽くす) - exhaust
 die Sperrung (停止) - stoppage 
-
 der Mülleimer (ゴミ爆) - dustbin
 der Müllwagen  (清掃車) - garbage truck
-der Urlaub (休暇) - holiday証拠
-der Walk (森) - forest
-die Zeitangabe () - time specification
-das Flugzeug () - plane 
-die Geschäftsreise() - buisness trip
-die	Fremdsprachenkenntnisse () - knowledge of the foreign language
-	wichtig () - important
-	verschwommen() - blurry
-	neblig () - foggy
-der Azubi () - apprentice
-	wechseln () - to swtich
-	vergleichen () - to compare
-	both () - beider
+der Urlaub (休暇) - holiday
+der Wald (森) - forest
+die Zeitangabe (keigo?) - time specification
+das Flugzeug (飛行機) - plane 
+die Geschäftsreise (keigo?) - buisness trip
+die	Fremdsprachenkenntnisse (keigo?) - knowledge of the foreign language
+	wichtig (大切) - important
+	verschwommen(朧気) - blurry
+	neblig (霞む) - foggy
+der Azubi (?) - apprentice
+	wechseln (?) - to swtich
+	vergleichen (比べく) - to compare
+	beider() - both
 der Herbst (秋) - autumn
 der Sommer (夏)　ー summer
+der Weg (式) - way
+	vorbereiten () - to prepare smth
+die Bevölkerung (人口) - population
+	dreckig(adj)(汚い) - dirty
+die Insel (島) - island
+der HandSchue (?) - gloves
+die Spitze (針) - needle
+	nähen(縫う) - to sew
+	pflanzen (植物) - plant
+im Allgemeinen (大概) - in general
+die Gurkensuppe - picke soup(never add in anki)
+die Schüssel () - bowl
