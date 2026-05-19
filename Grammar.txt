@@ -20,7 +20,7 @@ Die Kirche ist in ein Dorf.
 And der Dom is used when describing big churches in large cities.
 Der Dom ist in Madgeburg.
 
-Adverbien der Häufigkeit(advebs of freq uency) 
+Adverbien der Häufigkeit(advebs of frequency) 
 immer – 100% (always)
 meistens – 70–90% (mostly)
 oft – 50–70% (often)
@@ -28,12 +28,12 @@ manchmal - 20–50% (sometimes)
 selten – 5–20% (rarely)
 nie – 0% (never)
 
-Akkusativ: wohin, was wen
+Akkusativ:  wohin, was wen
 Dativ: Wo,wem
-der -> dem
-das -> dem
-die -> der
-die (Pl) -> den
+der(Akk) -> dem(Dat)
+das(Akk) -> dem(Dat)
+die(Akk) -> der(Dat)
+die (Pl) (Akk)-> den(Dat)
 
 Das Wetter heute is sonnig, aber windig und kalt
  
@@ -45,3 +45,13 @@ wir → -en
 ihr → -t
 sie / Sie → -en
 
+		das	   die     der
+ich 	mein,   meine,  mein(er)
+du 		dein,   deine,  deir
+er 		sein,   seine,  sein
+sie 	ihr,    ihre,   ihr
+es  	sein,   seine,  sein
+wir 	unsere, unsere, unser
+ihr 	euer,   euere,  euer  
+sie 	ihr,    ihre,   ihr
+Sie     ihr,    ihre,   ihre

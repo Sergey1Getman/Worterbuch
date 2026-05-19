@@ -101,6 +101,7 @@ die Kneide (kana) - pub
 	selten – 5–20% (rarely)
 	nie – 0% (never)
 der Satz (die Sätze) (文) - sentence.
+07.05.2026
 die Verwaltung (政府) - administration
 der Füller(万年筆) - fountain pen
 die Zeitung (新聞) - newspaper
@@ -130,7 +131,7 @@ der Urlaub (休暇) - holiday
 der Wald (森) - forest
 die Zeitangabe (keigo?) - time specification
 das Flugzeug (飛行機) - plane 
-die Geschäftsreise (keigo?) - buisness trip
+die Geschäftsreise (keigo?) - buisness tripx
 die	Fremdsprachenkenntnisse (keigo?) - knowledge of the foreign language
 	wichtig (大切) - important
 	verschwommen(朧気) - blurry
@@ -152,4 +153,23 @@ die Spitze (針) - needle
 	pflanzen (植物) - plant
 im Allgemeinen (大概) - in general
 die Gurkensuppe - picke soup(never add in anki)
-die Schüssel () - bowl
+die Schüssel (鉢) - bowl
+der Käufer (買い手) - buyer.
+der Verkäufer (売り手) - seller (maybe could mean salesman)
+der Herd (kana) - cooker, stove unit.
+	dauert () - to last (some time).
+	wählen () - to choose smth.
+	anstreben () - to pursue, to strive
+	sharf() - sharp
+das Auge() - eye
+der Sessel () - armchair
+	behaglich () - cozy
+	hässlich() - ugly
+die	Frühschicht () - morning shift
+die Tätigkeit(en) () - activity
+die Versicherung () - insurance
+	beraten () - to consult
+die Mannschaft () - team
+	Freiheit (自由) - freedom
+die Umschulung () - retraining
+die Weiterbildung () - further education
