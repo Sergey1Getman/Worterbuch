@@ -55,3 +55,10 @@ wir 	unsere, unsere, unser
 ihr 	euer,   euere,  euer  
 sie 	ihr,    ihre,   ihr
 Sie     ihr,    ihre,   ihre
+
+die Steigerungsformen
+Klein -> kleiner -> am kleinsten
+hell -> heller -> am hellsten
+dunkel -> dunkler -> am dunklesten
+teuer -> teuerer -> teuerersten
+billig -> billiger -> am billigsten

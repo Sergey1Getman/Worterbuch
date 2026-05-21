@@ -113,6 +113,7 @@ der Schrank (戸棚) - cupboard
 	höhenverstellbaren(?) - height adjustable
 die Mitte (半ば) - middle
 die Messen (祭り) - fair
+19.06.2026
 die Ausstellen (展覧会) - exhibition
 das Lied (歌) - song
 die Vorstellung (演技) - performance
@@ -124,6 +125,7 @@ der Fußboden (?) - floor
 	aussteigen (降りる) - to unboard
 	umsteigen (乗り換え) - transfer
 das Auspuffrohr (尽くす) - exhaust
+20.05.2026
 die Sperrung (停止) - stoppage 
 der Mülleimer (ゴミ爆) - dustbin
 der Müllwagen  (清掃車) - garbage truck
@@ -131,10 +133,11 @@ der Urlaub (休暇) - holiday
 der Wald (森) - forest
 die Zeitangabe (keigo?) - time specification
 das Flugzeug (飛行機) - plane 
-die Geschäftsreise (keigo?) - buisness tripx
+die Geschäftsreise (keigo?) - buisness trip
 die	Fremdsprachenkenntnisse (keigo?) - knowledge of the foreign language
 	wichtig (大切) - important
 	verschwommen(朧気) - blurry
+21.05.2026
 	neblig (霞む) - foggy
 der Azubi (?) - apprentice
 	wechseln (?) - to swtich
@@ -173,3 +176,15 @@ die Mannschaft () - team
 	Freiheit (自由) - freedom
 die Umschulung () - retraining
 die Weiterbildung () - further education
+trennbar	anfangen (fängt) - to begin 
+	sammeln () - to collect
+die Stimme (声）- voice.
+aus jened Fall () - in any casess
+	verdienen () - to earn
+	riechen () - to smell
+	anderhalb () - 1.5
+	witzig () - funny
+	Verkehr () - traffic
+der Oberlippenbart () - mustasche
+die Laterne () - lantern
+die Beleuchtung (照明) - lighting
