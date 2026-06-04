@@ -150,6 +150,7 @@ der Weg (式) - way
 die Bevölkerung (人口) - population
 	dreckig(adj)(汚い) - dirty
 die Insel (島) - island
+22.05.2026
 der HandSchue (?) - gloves
 die Spitze (針) - needle
 	nähen(縫う) - to sew
@@ -188,3 +189,32 @@ aus jened Fall () - in any casess
 der Oberlippenbart () - mustasche
 die Laterne () - lantern
 die Beleuchtung (照明) - lighting
+die Regeirung () - government
+die Regeirungvierter() - government discrict.
+	arm () - poor
+	reihenfolge () - order
+	ungefähr () - about, approximately
+	entlang () - to go along some street.
+	durch () - through
+die Botschaft (大使館) - embassy.
+die Querstrabe () - cross street
+die Silbe ()  - syllable
+die Ampel () - traffic light
+ 	besichtigen - to visit
+das Schloss () - castle
+der Touristenfuhere () - tourist guide
+das Boot () - boat
+die Geschichte (歴史)ー history
+die Schürze () - apron
+	gedankenversunken () - deep in thought
+	nachdenklich () - thoughful
+	kontrolieren () - to check smth
+	Sprechblase () - speech bubble
+das Geflügel () - poultry
+	außerdem () - besides
+das	gericht () - dish
+	sowohl als auch () - as well as
+	nachhaltig () - robust, durable
+	schutzen () - to protect
+	gelb () - yellow
+die Vehrkersmittel () - means of transport
