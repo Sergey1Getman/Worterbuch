@@ -38,7 +38,7 @@ die (Pl) (Akk)-> den(Dat)
 Das Wetter heute is sonnig, aber windig und kalt
  
 Verb System 
-ich → -e
+ich → -e 
 du → -st
 er / sie / es → -t
 wir → -en

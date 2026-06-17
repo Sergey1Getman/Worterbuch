@@ -27,7 +27,7 @@ der Studiengang (修論) - masters
 die Zunge(n) (舌) - tongue
 	fremd(海外)- foreign
 	fremde Länder (外国人)- foreigner 
-das Denkmal(die Denkmäler) (仏像)- statuex
+das Denkmal(die Denkmäler) (仏像)- statue
 der Regenschirm(傘) - umbrella
 26.04.2026
 der Schriftstelle (作家) - writer
@@ -69,7 +69,7 @@ die Poesie (詩)- poetry
  	leider (生憎) - Unfortunately
  	vielleicht(多分) - maybe
   	tut mir leid （もし訳ない）- i'm sorry, i apologize
-  	vorschlagen (申し入れる) - to propose smth
+  	vorschlagen (trennbarx)(申し入れる) - to propose smth
   	bitten (尋ねる) - to ask for smth
   	ablehnen(断る) - to refuse smth
   	zustimmen (取り決める) - to agree
@@ -151,7 +151,7 @@ die Bevölkerung (人口) - population
 	dreckig(adj)(汚い) - dirty
 die Insel (島) - island
 22.05.2026
-der HandSchue (?) - gloves
+der HandSchue (手袋) - gloves
 die Spitze (針) - needle
 	nähen(縫う) - to sew
 	pflanzen (植物) - plant
@@ -161,31 +161,31 @@ die Schüssel (鉢) - bowl
 der Käufer (買い手) - buyer.
 der Verkäufer (売り手) - seller (maybe could mean salesman)
 der Herd (kana) - cooker, stove unit.
-	dauert () - to last (some time).
-	wählen () - to choose smth.
-	anstreben () - to pursue, to strive
-	sharf() - sharp
-das Auge() - eye
+	dauert (持続) - to last (some time).
+	wählen (選ぶ) - to choose smth.
+	anstreben (努力する) - to pursue, to strive
+	sharf(鋭い) - sharp
+das Auge(目) - eye
 der Sessel () - armchair
-	behaglich () - cozy
-	hässlich() - ugly
-die	Frühschicht () - morning shift
-die Tätigkeit(en) () - activity
-die Versicherung () - insurance
-	beraten () - to consult
-die Mannschaft () - team
+	behaglich (kana) - cozy
+	hässlich(醜い) - ugly
+die	Frühschicht (早番) - morning shift
+die Tätigkeit(en) (活躍) - activity
+die Versicherung (保険) - insurance
+	beraten (相談する) - to consult
+die Mannschaft (kana) - team
 	Freiheit (自由) - freedom
-die Umschulung () - retraining
-die Weiterbildung () - further education
-trennbar	anfangen (fängt) - to begin 
-	sammeln () - to collect
+die Umschulung (再教育) - retraining
+die Weiterbildung (高等教育) - further education
+trennbar	anfangen (fängt) (始め)- to begin 
+	sammeln (集める) - to collect
 die Stimme (声）- voice.
-aus jened Fall () - in any casess
-	verdienen () - to earn
-	riechen () - to smell
-	anderhalb () - 1.5
-	witzig () - funny
-	Verkehr () - traffic
+aus jeden Fall (何しる) - in any case
+	verdienen (得る) - to earn
+	riechen (匂う) - to smell
+	anderhalb (?) - 1.5
+	witzig　(可笑しい) - funny
+	Verkehr (交通) - traffic
 der Oberlippenbart () - mustasche
 die Laterne () - lantern
 die Beleuchtung (照明) - lighting
@@ -193,6 +193,10 @@ die Regeirung () - government
 die Regeirungvierter() - government discrict.
 	arm () - poor
 	reihenfolge () - order
+	wo () - where
+	wohin () - where (in a sense of coming to a place from another) 
+	woher () - where (to come out from a certain place)
+	das Gefängnis () - jail
 	ungefähr () - about, approximately
 	entlang () - to go along some street.
 	durch () - through
@@ -209,12 +213,44 @@ die Schürze () - apron
 	gedankenversunken () - deep in thought
 	nachdenklich () - thoughful
 	kontrolieren () - to check smth
-	Sprechblase () - speech bubble
+	Sprechblase () - speech bubbles
 das Geflügel () - poultry
 	außerdem () - besides
+	blieben (trennbar) () - to stay
+	geben (trennbar) - to give
 das	gericht () - dish
 	sowohl als auch () - as well as
 	nachhaltig () - robust, durable
 	schutzen () - to protect
 	gelb () - yellow
 die Vehrkersmittel () - means of transport
+	einladen (trennbar) - invite
+die Zwiebel () - onion
+	vergleichen () - to compare
+	Sand (砂) - sand
+	genießen () - to enjoy smth
+das Wahrzeichen () - symbol
+	malen (描く) - to paint
+	laufen (走る) - to run
+	schmal () - narrow
+	beseelt () - inspired
+	womit () - with what (reccomendation)
+die Hitze (熱い) - heat
+	Anhand() - on the basis of 
+	anstatt () - instead of
+	Farbabstimmung () - color matching
+	hinzufugen () - add
+der Zeh (pl.die Zehen) - toe
+	kennengelernt () - to meet each other
+die Arbeitsunfähigkeitbescheidigung () - certificate of disability
+ 	anstrengend () - stressful, strenuous
+ 	fehlend (無くなる) - missing
+ 	dass () - that
+sich beeilen () - to hurry
+	schwanger () - pregnant
+	freuen (嬉しい) - to be glad
+	fühlen () - to feel smth
+	schmutzig () - dirty
+das Holz () - wood
+	husten () - to cough
+der Schluss (終わり) - end
