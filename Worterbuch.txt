@@ -163,6 +163,7 @@ der Verkäufer (売り手) - seller (maybe could mean salesman)
 der Herd (kana) - cooker, stove unit.
 	dauert (持続) - to last (some time).
 	wählen (選ぶ) - to choose smth.
+19.06.2026
 	anstreben (努力する) - to pursue, to strive
 	sharf(鋭い) - sharp
 das Auge(目) - eye
@@ -186,25 +187,25 @@ aus jeden Fall (何しる) - in any case
 	anderhalb (?) - 1.5
 	witzig　(可笑しい) - funny
 	Verkehr (交通) - traffic
-der Oberlippenbart () - mustasche
-die Laterne () - lantern
+der Oberlippenbart (髭) - mustasche
+die Laterne (kana) - lantern
 die Beleuchtung (照明) - lighting
-die Regeirung () - government
+die Regeirung (政府) - government
 die Regeirungvierter() - government discrict.
-	arm () - poor
-	reihenfolge () - order
-	wo () - where
-	wohin () - where (in a sense of coming to a place from another) 
+	arm (貧しい) - poor
+	reihenfolge (命令) - order
+	wo (何処) - where
+	wohin (何方) - where (in a sense of coming to a place from another) 
 	woher () - where (to come out from a certain place)
-	das Gefängnis () - jail
+	das Gefängnis (刑務所) - jail
 	ungefähr () - about, approximately
 	entlang () - to go along some street.
 	durch () - through
 die Botschaft (大使館) - embassy.
 die Querstrabe () - cross street
-die Silbe ()  - syllable
-die Ampel () - traffic light
- 	besichtigen - to visit
+die Silbe (字)  - syllable
+die Ampel (信号機) - traffic light
+ 	besichtigen (訪ねる) - to visit
 das Schloss () - castle
 der Touristenfuhere () - tourist guide
 das Boot () - boat
@@ -216,9 +217,11 @@ die Schürze () - apron
 	Sprechblase () - speech bubbles
 das Geflügel () - poultry
 	außerdem () - besides
+	bestehen () - to consist of smth
 	blieben (trennbar) () - to stay
 	geben (trennbar) - to give
 das	gericht () - dish
+der Mond (月) - moon
 	sowohl als auch () - as well as
 	nachhaltig () - robust, durable
 	schutzen () - to protect
@@ -254,3 +257,18 @@ sich beeilen () - to hurry
 das Holz () - wood
 	husten () - to cough
 der Schluss (終わり) - end
+	müde (疲れた) - tired
+meiner Meinung nach () - in my opinion
+Soweit ich weiß () - as far as i know
+ich bin der ansicht dass ()ss- i am of the opinion that...
+	verwenden () - to change smth
+	Außerdem () - besides
+	gefallen () - favour, liking
+die Schlange () - queue
+das Pferd () - horse
+der Koffer () - suitcase
+die	Klimaanlage (kana) - air con
+das Gericht () - court
+die Offenheit () - openness
+die Ehrlichkeit () - honesty
+die Immatrikulation () - enroll

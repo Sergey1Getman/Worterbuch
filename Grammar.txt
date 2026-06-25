@@ -27,13 +27,31 @@ oft – 50–70% (often)
 manchmal - 20–50% (sometimes)
 selten – 5–20% (rarely)
 nie – 0% (never)
+Masculine
+Nominativ	Akkusativ	Dativ
+der			den			dem
+Feminine
+Nominativ	Akkusativ	Dativ
+die			die			der
+Neuter
+Nominativ	Akkusativ	Dativ
+das			das			dem
+Plural
+Nominativ	Akkusativ	Dativ
+die			die			den (+n on noun if possible)
 
-Akkusativ:  wohin, was wen
-Dativ: Wo,wem
-der(Akk) -> dem(Dat)
-das(Akk) -> dem(Dat)
-die(Akk) -> der(Dat)
-die (Pl) (Akk)-> den(Dat)
+
+mein/dein/sein/ihr/unser/euer/Ihr
+der - simple form(mein), exception unsere
+die - -e ending(meine)
+das - -er ending (meiner)
+
+Always Akkusativ (DOGFU):
+durch
+ohne
+gegen
+für
+um
 
 Das Wetter heute is sonnig, aber windig und kalt
  
@@ -45,6 +63,7 @@ wir → -en
 ihr → -t
 sie / Sie → -en
 
+Possesivpronomen
 		das	   die     der
 ich 	mein,   meine,  mein(er)
 du 		dein,   deine,  deir
