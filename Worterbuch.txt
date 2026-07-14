@@ -167,7 +167,7 @@ der Herd (kana) - cooker, stove unit.
 	anstreben (努力する) - to pursue, to strive
 	sharf(鋭い) - sharp
 das Auge(目) - eye
-der Sessel () - armchair
+der Sessel (kana) - armchair
 	behaglich (kana) - cozy
 	hässlich(醜い) - ugly
 die	Frühschicht (早番) - morning shift
@@ -175,6 +175,7 @@ die Tätigkeit(en) (活躍) - activity
 die Versicherung (保険) - insurance
 	beraten (相談する) - to consult
 die Mannschaft (kana) - team
+08.07.2026
 	Freiheit (自由) - freedom
 die Umschulung (再教育) - retraining
 die Weiterbildung (高等教育) - further education
@@ -196,31 +197,31 @@ die Regeirungvierter() - government discrict.
 	reihenfolge (命令) - order
 	wo (何処) - where
 	wohin (何方) - where (in a sense of coming to a place from another) 
-	woher () - where (to come out from a certain place)
+	woher (どこから) - where (to come out from a certain place)
 	das Gefängnis (刑務所) - jail
-	ungefähr () - about, approximately
+	ungefähr (約) - about, approximately
 	entlang () - to go along some street.
-	durch () - through
+	durch (通じて) - through
 die Botschaft (大使館) - embassy.
-die Querstrabe () - cross street
+die Querstrabe (横断 ) - cross street
 die Silbe (字)  - syllable
 die Ampel (信号機) - traffic light
  	besichtigen (訪ねる) - to visit
-das Schloss () - castle
+das Schloss (城) - castle
 der Touristenfuhere () - tourist guide
-das Boot () - boat
+das Boot (船) - boat
 die Geschichte (歴史)ー history
-die Schürze () - apron
-	gedankenversunken () - deep in thought
+die Schürze (kana) - apron
+	gedankenversunken (考え事にふける) - deep in thought
 	nachdenklich () - thoughful
-	kontrolieren () - to check smth
+	tkontrolieren (確かめる) - to check smth
 	Sprechblase () - speech bubbles
-das Geflügel () - poultry
-	außerdem () - besides
-	bestehen () - to consist of smth
+das Geflügel (鶏肉) - poultry
+	außerdem (其れに) - besides
+	bestehen (成り立つ) - to consist of smth
 	blieben (trennbar) () - to stay
 	geben (trennbar) - to give
-das	gericht () - dish
+das	gericht (食事) - dish
 der Mond (月) - moon
 	sowohl als auch () - as well as
 	nachhaltig () - robust, durable
@@ -258,7 +259,7 @@ das Holz () - wood
 	husten () - to cough
 der Schluss (終わり) - end
 	müde (疲れた) - tired
-meiner Meinung nach () - in my opinion
+meinebeschäftigen  r Meinung nach () - in my opinion
 Soweit ich weiß () - as far as i know
 ich bin der ansicht dass ()ss- i am of the opinion that...
 	verwenden () - to change smth
@@ -272,3 +273,83 @@ das Gericht () - court
 die Offenheit () - openness
 die Ehrlichkeit () - honesty
 die Immatrikulation () - enroll
+die Sorgen () - trouble
+die Kuss (kana) - kiss
+	Unterwegs (途中) - en route.
+	Dauern () - to last, to take x time.
+	sauber () - clean, neat
+	nächstes (次) - next
+die Ameise (蟻) - ant
+die Forschung () - research
+teil nehmen () - to take part in smth
+	regelmäßig () - regular
+das Vergnügen () - pleasure, fun
+das Gehirn () - brain
+der Mund () - mouth
+die	Kaninchenzüchter () - rabbit keeping, breeding
+	ausruhen () - to rest
+	erholen () - to recover
+	entspannen () - to relax
+	errinern () -  to remember smth(memories)
+	traurig () - sad
+das Autokennzeichen () - plate number
+die Schallplate () - vinyl plate
+der Passant-en () - passer-by
+	dafur () -  instead
+	dagegen () - however
+	untershieden () - distinguish 
+	hoch () - high
+	bestimmt () - particular, certain
+die Auswahl () -  choice, selection
+	zufrieden () - happy, satisfied
+das Gehirn () -  brain
+der Empfänger () - reciever(of a letter), recipient
+	unangenehm () - uncomfortable, awkward
+die Rechnung () - bill
+	werfen () - to throw something
+	zu jmdm./etw. gehören() - to belong to someone
+	trösten () - to comfort, to calm (someone)
+	eigentlich () - actually
+das Schnäppchen () - bargain, sale
+die Jagd () - hunt
+	gebraucht () - second hand
+der Schmuck () - jewelry 
+die Kunst () - art
+die Reklamation () - objection
+der Kassenzettel () - check 
+	umtauschen () - to change, to replace
+	Tierarzt () - vet
+	unglaublich () - unbelivable, amazing
+	zufrieden () - satisfied
+	wertvolle () - valuable, precious
+	weiterleiten () - to transmit, to relay
+	berühmt () - famous 
+der Käfer ()- beetle
+der Krug () -jar
+	untrügbarer - infalliable
+	erschlugen - to strike dead
+der Mörder () - kille r
+der Irrtum (pl. Irrtümer)() - error, mistake
+	nützlich () - useful, beneficial
+	Unvorstellbaren ()-  unimaginable
+	anschauen () - to look at smth 
+	günstig () - convenient 
+	die Störung () - disturbance
+die Beleidigung ()- insult 
+	tief () - deep
+	gefährlich	() - dangerous, risky
+die Besetzung () - occupation
+	gestört () - disturbed
+das Gedächtnis ()-  memory	
+der Held (勇者) - hero
+zu (jmnd)begleiten () - to accompany someone 
+die Erkenntnis () - insight 
+der Ehestreit () - domestic quarrel
+	rastlos () - unresting (not for anki)
+die Rache () - vengeance
+Schauergeschichte () - horror story 
+die Vernichtung () - destruction 
+	Heilige () - saint
+die Erwägung () - consideration
+etwas begriefen () - to understand\recognize sth.
+	zeichnerisch () - graphic\al
