@@ -77,6 +77,8 @@ Sie     ihr,    ihre,   ihre
 
 Alle nomen lerne ich immer mit dem Artikel mit Nominativ
 
+Alle Adjektiven im Dativ hat endung -en.
+
 W-Fragen: 
 Was
 Wo
@@ -90,5 +92,87 @@ hell -> heller -> am hellsten
 dunkel -> dunkler -> am dunklesten
 teuer -> teuerer -> teuerersten
 billig -> billiger -> am billigsten
+
+Wann benutzen zu:
+das: zum
+der: zum 
+die: zur
+Pl: zu den
+Wann benutzen  in:
+das: ins
+der: in den
+die: in die
+Pl: die(USA)
+Wann benutzen auf:
+auf das
+auf den(der)
+auf die
+Pl: auf die
+Wann benutzen an
+das:ans
+der:an den
+das:an die
+Pl: an die(rarely used)
+
+Wo? (Dativ) 
+arbeiten, sein, sich treffen
+Und wir benutzen bein, wann wir ein person oder situation haben.
+das:beim
+der:beim
+die:der
+Pl:den
+
+Wir benutzen in
+das:im
+der:im
+die:in der
+Pl: in den
+Wir benutzen auf
+das:auf dem
+der:auf dem
+die:auf der
+Pl:auf den(rarely used)
+
+Wir benutzen an
+das:am
+der:am
+die:an der
+Pl:an der
+
+Partizip 2
+sehen 			gesehen
+schlafen		geschlafen
+essen			gegessen
+liegen			gelegen(X)
+laufen(s)		gelaufen
+schreiben		geschrieben
+sich treffen	getroffen
+anfugen			angerufen
+fahren(s) 		gefarhen
+finden			gefunden
+erzahlen		erzahlt
+aufstehen(s)	aufgestanden
+verstehen		verstanden
+studieren		studiert
+helfen			geholfen
+geben 			gegeben
+passiren(s)		
+blieben(s)		geblieben
+Perfekt mit "sein"
+1.Veben der Bewegung(zum Ziel):laufen, gehen, fahren, schwimmen, fliegen, kommen
+2.Veranderung des Zustands oder der Lage: auswachen, einschlafen, fallen aufstehen, einsteigen, aussteigen, umsteigen, umziehen, sterben
+3.blieben, passieren(=geschehen).
+
+See can be die and der. When used with die it means we're talking about a sea(das Meer). When used with der that means we're talking about a lake (Barleber See).
+
+Heute 						Gestern 
+Ich habe keine Zeit			Ich hatte keine Zeit
+Ich bin krank 				Ich war krank
+Es geht mir gut				Es ging mir gut
+Es gibt kein 				Es gab kein kein 
+Ich muss viel lernen		Ich mussten viel lernen
+Ich mochte ein Film sehen 	Ich wollte einen Film
+Ich hore Musik				Ich habe Musik gehort
+Ich fahre nach Leipzig		Ich bin nach Leipzig gefahren
 
 Ich freue\angere : With über means that is something that already happened or\is present. Auf means that it is not yet happened and will be in future

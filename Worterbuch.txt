@@ -3,7 +3,7 @@ die Begrüßung(en) (挨拶)- greeting.
 die Beratung(en) (案内)- guidance.
 der Anzug (kana)- suit.
 die Kopfschmerz(en) (頭痛)- headache
-die Mütze (帽子) -  cap 
+die Mütze (帽子) -  cap j
 der Nudelauf(e) (kana) - pasta
 der Schnee (雪)- snow
 die Laune(en) (気分) - mood
@@ -63,13 +63,13 @@ die Nachrichte (kana) - news
 	verschieben (遅らせる)- to delay some event
 die	Panne (万一)- breakdown
 die Poesie (詩)- poetry
- 	aus gehen （行く）- to go somewhere
+ 	aus gehen （行く）- to go somewhere(Freizeit)
  	einkaufen- byuing groceries
  29.04.2026
  	leider (生憎) - Unfortunately
  	vielleicht(多分) - maybe
   	tut mir leid （もし訳ない）- i'm sorry, i apologize
-  	vorschlagen (trennbarx)(申し入れる) - to propose smth
+  	vorschlagen (trennbar)(申し入れる) - to propose smth
   	bitten (尋ねる) - to ask for smth
   	ablehnen(断る) - to refuse smth
   	zustimmen (取り決める) - to agree
@@ -188,6 +188,7 @@ aus jeden Fall (何しる) - in any case
 	anderhalb (?) - 1.5
 	witzig　(可笑しい) - funny
 	Verkehr (交通) - traffic
+21.07.2026
 der Oberlippenbart (髭) - mustasche
 die Laterne (kana) - lantern
 die Beleuchtung (照明) - lighting
@@ -328,7 +329,7 @@ der Käfer ()- beetle
 der Krug () -jar
 	untrügbarer - infalliable
 	erschlugen - to strike dead
-der Mörder () - kille r
+der Mörder () - killer
 der Irrtum (pl. Irrtümer)() - error, mistake
 	nützlich () - useful, beneficial
 	Unvorstellbaren ()-  unimaginable
@@ -353,3 +354,67 @@ die Vernichtung () - destruction
 die Erwägung () - consideration
 etwas begriefen () - to understand\recognize sth.
 	zeichnerisch () - graphic\al
+	weiterleiten () - forward
+das	Geschirr () - dishes
+das Besteck () - cutlery 
+die Erlaubnis () - permission
+	genug () - enough
+	sicher () - certain
+sich beschweren () - to complain
+	umzufrieden () - unsatisfied, unhappy
+	shreckliche () - awful
+das Angeln () - fishing
+	reiten () - hobby-horsing
+das Pferd () -  horse
+das Mitglied () - member
+	freiwillg () - voluntarily
+	sterben () - to die (of smth)
+	meinen () - (opinion)etwas denken und sagen
+	plötzlich () - suddenly 
+	sBeraten () - advisor(einen person die ihnen informationen gibt oder hilft)
+die	Steuer die Steuern.pl () - taxf
+mit etwas umgehen () - to deal with smth
+das Vertrauen () - confidence
+	einziehen () - to move in
+sich um etwas kümmern () - to take care of smbd, smth
+	angenehm () - pleasant
+	erreichen () - to reach smth
+	ankommen () - to arrive somewhere
+um die Ecke () - close, not far
+	mindestens () - minimal, at least once per period of time
+Es ist immer was los? () - Es passiert immer etwas, es ist nicht lanweilig. Something always happening.
+	ganz () - completely
+	Werbung ()- advertising
+	außer()- except
+die Lust () - to want smth
+die Speisekarte () - menu
+	vorstellen () - to introduce (yourself, or smth)
+	unterhalten () -  to talk to smbd
+	fast () - almost
+das Schild () - sign, plate
+der Schaum () - foam
+die Menge () - amount
+Menge SpaB () - plenty of fun
+die Traube ()  - grape
+	sonst () - else
+das Mehl () - flour
+	glasartig () - virteous
+das Brot (バン) - bread
+die Sahne () - cream 
+die Gurke () - pickle
+der Toast (トスと) - toast
+die Ananas() - pineapple
+der Käse  () - cheese.
+der Quark () - curd cheese
+die Kraut ->die Kräuter - cabbage, greens
+der Salatteller - salat
+das Schnitzel () - 
+die Pommes () - freis
+der Kohl (die Rotkraut) () -cabbage
+das Ei (卵) -egg
+der Auflauf () - 
+das Fischstäbchen () - fish 
+die Vorpeise () - apetizer 
+die Haupspeise () - main course
+das Dessert () - dessert
+
