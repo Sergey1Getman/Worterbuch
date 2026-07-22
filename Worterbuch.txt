@@ -3,7 +3,7 @@ die Begrüßung(en) (挨拶)- greeting.
 die Beratung(en) (案内)- guidance.
 der Anzug (kana)- suit.
 die Kopfschmerz(en) (頭痛)- headache
-die Mütze (帽子) -  cap j
+die Mütze (帽子) -  cap 
 der Nudelauf(e) (kana) - pasta
 der Schnee (雪)- snow
 die Laune(en) (気分) - mood
@@ -172,11 +172,11 @@ der Sessel (kana) - armchair
 	hässlich(醜い) - ugly
 die	Frühschicht (早番) - morning shift
 die Tätigkeit(en) (活躍) - activity
-die Versicherung (保険) - insurance
+die Versicherung (保険) - tnsurance
 	beraten (相談する) - to consult
 die Mannschaft (kana) - team
 08.07.2026
-	Freiheit (自由) - freedom
+die	Freiheit (自由) - freedom
 die Umschulung (再教育) - retraining
 die Weiterbildung (高等教育) - further education
 trennbar	anfangen (fängt) (始め)- to begin 
@@ -416,5 +416,30 @@ der Auflauf () -
 das Fischstäbchen () - fish 
 die Vorpeise () - apetizer 
 die Haupspeise () - main course
+das Wettbewerb (挑戦？) - competition
 das Dessert () - dessert
+	stattfinden () - to take place 
+die Führung (1rst meaning)() - leadership	
+die Führung (2nd meaning) () - guide(in museum) 
+u.a = unter anderem
+das Tablett () - tray
+das Stück () - piece
+die Schale () - cup(small cup of smth)
+der Gürtel () - belt
+der Cilp () - clip(hair accesorrie)
+lockige Haare () - curly hair
+glattes Haare () - straight hair
+der Löffel  () - spoon
+das Messer () - knife
+die Serviette () - napkin
+der Gast () - guest
+der Imbiss () - snack shop
+	günstig() - convenient, affordable
+	gestrieft () - stripey
+	kariert () - checked pattern(kleidung)
+das Kappi ()- cap (with )
+die Pfanne () - pan
+	Wer? (誰) - who?
+	Wann () - when
+der Frühling (春) - spring
 
