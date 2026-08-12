@@ -162,7 +162,7 @@ der Käufer (買い手) - buyer.
 der Verkäufer (売り手) - seller (maybe could mean salesman)
 der Herd (kana) - cooker, stove unit.
 	dauert (持続) - to last (some time).
-	wählen (選ぶ) - to choose smth.
+	wählen (gewahlt)(選ぶ) - to choose smth.
 19.06.2026
 	anstreben (努力する) - to pursue, to strive
 	sharf(鋭い) - sharp
@@ -442,4 +442,97 @@ die Pfanne () - pan
 	Wer? (誰) - who?
 	Wann () - when
 der Frühling (春) - spring
-
+vorher () - before
+	statt () - instead of
+sich beschweren ()-  to complain about smth
+	sofort () - immediately
+der Ausriss () - a tear(piece)of paper
+	reisen() - to tear something
+	Kette () - chain(jewerly) 
+	bekannt () - famous
+	gleichen () - similar, equal
+die Qualität () - quality
+der Ablauf  pl.: die Abläufe () - process
+der Spaß() - fun
+	überall () - anywhere, everywhere
+	anbieten () - offer
+das Ding (die Dinge) - thing
+	gerade () - just(just did smth)
+die Hochzeit () -wedding
+die Reihenfolge () - order, sequence
+die Liebe auf dem ersten Blick () - love at the first sight
+die Ansicht () - opinion.
+die Einstellung () - attitude
+die Abkürzung  () - abbreviation
+	seit () - already, since
+jmnd füttern () - to feed someone
+	scheinen () - to shine
+der Ausflug () - trip(short one)
+sich leihen () - to borrow smth
+zu jmnd gehören () - to belong to someone
+die Noten ()- grades
+	hübsch (綺麗) - pretty, cute
+etw. stört jmdn. () - to disturb, to annoy.
+der Zeitungsartikel () - newspaper article
+die Börse () - stock exchange
+etw raten () - to advice 
+	ehrlich () - honest
+sich beschaftigen () - to occupy yourself
+	ernst () - serious
+	wirkliche () - really, real
+die Lüge () - lie
+der Schnurrbart () - mustache
+der Bart () - beard 
+	böse() - angry, mad
+	treu () - loyal
+	dumm () - stupid
+	schlau () - smart, clever
+	klug () - smart, clever
+jmnd wechseln() - to change smth
+sich beeilen () - to hurry
+die Wissenschaft () - science
+die Geschtalt () - image
+	Geschtalter () - to create
+	erkennen () - to recognize
+	unterstreichen () - to underline
+der Link () - link
+zusammen Fassen () - summarize
+die Werbung () - advertising
+ins Internet stellen () - to share smth in internet
+etwas entwickeln() - develop smth
+der Vorshlag () - proposition
+veschieden () - different 
+aus sehen ()- to look a certain way
+etwas wechseln (spr: wekseln)()- to switch smth, or to smth 
+jmnd pflegem () - to nurse
+die Kuh ()- cow 
+das Hochhaus () - skyscraper
+die Luftverschmutzung  () - air pollution
+das Ergebnis () - outcome 
+	eindeutig () - distinct, excplicit
+	beitet () - to offer, open up smth.
+	ebenso () - similarly, alike
+	verkürzen () - 
+	zahlreichen () - numerous
+	pendeln () - to commute
+das Bewerbungsgesprach () - job interview
+das Vostellungsgesprach () - job interview
+die Bewerbung () - application
+die Arbeitsstelle () - job offer.
+der Führerschein () - driver's license
+der Firmenwagen () - company issued car
+der Dienstwagen () -  company issued car
+die Kindheit () - childhood
+die Erleben () - experience
+der Wohnort () - place of living 
+der Vorteil () - advantage (pro)
+der Nachteil () - disadvantage (con)
+der Lärm () - noise
+die Burverbindung () - bus connections
+	kaum () - hardly
+sich entscheiden (Akkusativ-sich) () - to deciede smth
+	steigten () - to climb (price)
+	sparen () - to save (money)
+das Hausordnung () - house rules
+vermissen () - to miss smth
+der Dreck () - dirt
