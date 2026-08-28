@@ -43,6 +43,8 @@ die			die			den (+n on noun if possible)
 
 mein/dein/sein/ihr/unser/euer/Ihr
 der - simple form(mein), exception unsere
+
+
 die - -e ending(meine)
 das - -er ending (meiner)
 
@@ -208,3 +210,83 @@ schnell - schneller - am schnellsten/  der, die, das schnellste
 lang - länger - am längsten/ der, die, das längste
 alt - älter - am ältesten/ der, die, das älteste
 groB - gröBer - am gröBten/ der, die, das gröBte
+
+Kausalsätze (Grund: warum?)
+weil/da (Nebensatz) (verb am ende)
+denn (Hauptsatz) (verb am zweiten stelle)
+
+Er möchte bald umziehen, weil seine Wohnung zu klein ist. (HS plus NS)
+Er möchte bald umziehen, denn seine Wohnung ist zu klein. (HS plus HS)
+
+Konjuktiv II
+Höflichkeit, Irrealität, Wünsche, Vermutung
+
+Konjuktive II bilden wir von Präteritum
+if the verb is regular the form in Präteritum and Konjuktiv II is the same if irregular then we add -ö,ü,ä and ending -e 
+Infinitiv		Präteritum		Konjuktiv II
+machen			machte			machte
+								würde/machen
+haben 			hatte			hätte
+sein			war  			wäre	
+lernen 			(lernte)		lernte
+								würde lernen
+spielen			(spielte)		spielte
+kommen 			kam				käme
+werden 			wurden			würde
+schlafen 		schlief			schliefe
+können 			(konnte)		könnte
+müssen			(musste) 		müsste
+mögen			(mochte)		möchten
+
+1.Hätten Sie ein bisschen Zeit für mich?
+2.Könntest du mir bitte helfen?
+3.Ich hätte eine kurze Frage
+4.Würudest du mich heute Abend anrufen?
+5.Ich habe lieder kein Auto. Ich hätte gern einen Mercedes.
+6.Wenn wir mehr Zeit hätten, könnten wir uns heute treffen.
+7.Ich wäre gern reich und berühmt
+8.Er könnte dir vielleicht helfen.
+9. Sie würde gerne einen Urlaub in Spanien machen
+10. Ich möchte nächstes Jahr eine Ausbildung machen.
+
+das Fahren, Arbeiten, Schlafen, Sprechen...(Prozess)
+die Fahrt, die Arbeit, der Schlaf, die Sprache...(Reultat, Ergebnis)
+
+Ich werde
+du wirst
+er,sie,es wird
+wir werden
+ihr werdet
+sie, Sie werden
+Ich werde im November 27. Er wird bald Vater. Sie wird Ärztin.
+
+Personalpronomen im Dativ
+ich 	mir
+du 		dir
+er 		ihm
+/sie 	ihr
+/es 	ihm
+wir 	uns
+ihr 	euch
+sie 	ihnen
+Sie  	Ihnen
+
+Verben mit dem Dativ:
+z.B.helfen, antworten, danken, gefallen, gehören, schmecken, fehlen.
+
+N.wer? was?
+G.weseen?
+D. wem?
+A. wen? was?
+
+Dativ und Akkusativ im Satz
+schenken, kaufen, geben, erklären, erzählen, zeigen, bringen, leihen...
+Zum Hochzeitstag schenken wir unseren Eltern(Dativ) ein Bild(Akkusativ).
+Er kauft seinem Vater(D) eine Zeitung(A).
+Er gibt mir(D) sein Buch(A).
+Der Lehrer erklärt den Schülern(D) das Thema(A).
+Ich zeige dir(D) mein neues Auto(A).
+Die Kellnerin bringt den Gästen(D) das Essen(A).
+Kannst du mir(D) einen Kuli(A) leihen?
+
+

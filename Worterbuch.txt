@@ -102,7 +102,7 @@ die Kneide (kana) - pub
 	nie – 0% (never)
 der Satz (die Sätze) (文) - sentence.
 07.05.2026
-die Verwaltung (政府) - administration
+die Verwaltung (政府) - administration （in a way more about paperwork)
 der Füller(万年筆) - fountain pen
 die Zeitung (新聞) - newspaper
 der Ordner (kana) - binder
@@ -201,31 +201,35 @@ die Regeirungvierter() - government discrict.
 	woher (どこから) - where (to come out from a certain place)
 	das Gefängnis (刑務所) - jail
 	ungefähr (約) - about, approximately
-	entlang () - to go along some street.
+	entlang (平行) - to go along some street.
 	durch (通じて) - through
+25.08.2026
 die Botschaft (大使館) - embassy.
 die Querstrabe (横断 ) - cross street
-die Silbe (字)  - syllable
+die Silbe (音節)  - syllable
 die Ampel (信号機) - traffic light
  	besichtigen (訪ねる) - to visit
 das Schloss (城) - castle
-der Touristenfuhere () - tourist guide
+der Touristenfuhere (観光ガイド) - tourist guide
 das Boot (船) - boat
 die Geschichte (歴史)ー history
 die Schürze (kana) - apron
 	gedankenversunken (考え事にふける) - deep in thought
-	nachdenklich () - thoughful
-	tkontrolieren (確かめる) - to check smth
-	Sprechblase () - speech bubbles
+	nachdenklich (思慮深い) - thoughful
+	27.08.2026
+	kontrollieren (確かめる) - to check smth
+	Sprechblase (吹き出し) - speech bubbles
 das Geflügel (鶏肉) - poultry
 	außerdem (其れに) - besides
 	bestehen (成り立つ) - to consist of smth
-	blieben (trennbar) () - to stay
+	blieben (trennbar) (留まる/残る) - to stay
 	geben (trennbar) - to give
 das	gericht (食事) - dish
 der Mond (月) - moon
-	sowohl als auch () - as well as
+	sowohl als auch (～もまた～ ) - as well as
 	nachhaltig () - robust, durable
+die PflasterstraBe - paved road
+die	Fleischerei - meat shop
 	schutzen () - to protect
 	gelb () - yellow
 die Vehrkersmittel () - means of transport
@@ -393,6 +397,8 @@ die Speisekarte () - menu
 	fast () - almost
 das Schild () - sign, plate
 der Schaum () - foam
+der Unfall () - accident
+die Verletzung () - injury
 die Menge () - amount
 Menge SpaB () - plenty of fun
 die Traube ()  - grape
@@ -542,7 +548,83 @@ in Erinnerungen schwelgen () - to reminisce about smth.
 	jmdn. begeistern () - to inspire smth
 außerschulische Tätigkeiten () - extracurricular activities
 Schlittschuh laufen () - to ride on the skates (on ice).
-	vergleiche () - to compare 
+	vergleiche () - to compare  
 	niedrig () - low
 die Immobilienmaklerin () - property agent
 	abstellen () - to store, to park
+die Haustiere () - pets
+der Besichtigungstermin () - visit appointment
+die Verletzung () - injury 
+der Hausrat () - furniture, personal belongings
+die Veranstaltung - presentation, event
+die Mauer () - wall
+die Einheit () - unity
+sich um etwas bewerben () - aplly for smth
+das Erlebnis ()- experience 
+etwas lohnt sich () - smth pays (off)
+sich verständigen () - to make oneself understood
+der Intendant ()- director (in theater)(not for anki)
+	veranstalten () - to host smth
+	preisgünstiger () - low cost (same as billig)
+die Reihe () - row
+die Bühne () - scene, stage
+Gern geschehen () -  you're welcome 
+Ermäßigung ()-  discount
+Veranstalltung () - event (festival), viele Kulturangebot
+	weit () - far
+das Verfahren () - process (in a way how smth works, details)
+das Ablauf () - what happened (as in schedule or situation)
+dar Vorgang () - also what happened (can be used with schedules and situations)
+etwas bestätigen () - 
+die Zukunft (未来) - future
+die Vergangenheit () - past
+etwas verfassen () - to exchange letters
+das Abitur () - school leaving examination in Germany
+die Fortbildung () - advanced education
+Läden () - shop
+Angestellte ()- employee
+	froh () - glad
+die Berufserfahrung () - work experience
+der Quereinsteiger () - career changer, job application with no previous experience required.
+das Gehalt () - pay, wage
+	selbstständig()- independent
+die Verantwortung ()- responsibility
+sich bewerben ()- to advertise oneself
+der Bauernhof ()- farm
+der Rettungssanitäter - paramedic
+	dankbar ()- grateful
+	spannend () - exciting
+die Werbung ()- advertising
+der Berufsanfänger () - entry-level worker
+das Niveau ()- level (of language knowledge)
+der Schauspieler - actor, performer 
+der Rennfahrer - racer
+die Redakteurin - redactor (in newspaper or else)
+Germanistik () - German phylology
+der Pfarrer () - priest
+	wütend () - mad
+die Begeisterung () - enthusiasm
+der Freundeskreis () - circle of friends
+die Leistung ()
+	zusammenfassen () - to summarize
+	höflich () - polite
+die Regel () - rule
+	beobachten ()- to observe
+die Körpersprache ()- body language
+uber etwas lügen ()- to lie about smth
+	switzen ()- to sweat
+das Missverständnis ()- misunderstanding
+	dringend()- urgent
+die Auskunft ()- information
+etwas bestätigen ()- to confirm something
+	unbestimmt ()- vague
+etwas schließen () - to close smth
+der Betrieb ()- firm, buisness
+der Tannenbaum () - fir tree, yalinka
+	künstlich ()- artificial
+die Kerze ()- candle
+der Uabhängigkeitstag
+	schrecklich ()-awful
+	weichen () - soft
+der Stoff () - material
+etwas leihen ()- to borrow smth
