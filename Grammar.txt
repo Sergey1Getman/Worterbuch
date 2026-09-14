@@ -289,4 +289,111 @@ Ich zeige dir(D) mein neues Auto(A).
 Die Kellnerin bringt den Gästen(D) das Essen(A).
 Kannst du mir(D) einen Kuli(A) leihen?
 
+Genitiv 
+dei 	des… -s
+die 	der… 
+das		des… -s
+die(Pl)	der
+
+
+Perfekt
+Hilfsverb		Vollverb
+haben/sein……………Partizip II
+Ich habe heut zum Frühstück Pizza gegessen?
+Was hast du heute zum Frühstück gegessen?
+Hast du heute zum Frühstück Pizza gegessen? 
+
+Partizip II
+regelmaßig(ge-……-t)		unregelmaßig(endung -en)
+						und wir mussen diese verbe lernen
+
+Wir Benutzen Partizip II mit haben 90%
+und mit alle reflexive Verben:
+zich setzen, sich treffen und z.w
+Mit sein benutzen wir nur mit:
+1)Verbern der Bewegung vor A nach B:
+fahren, fliegen, schwimmen, gehen, laufen, kommen
+2)Verben mit Beteutung Position ändern
+(aufstehen, fallen, steigen, umziehen)
+3)Verben der Zustandveränderung: aufmachen, einschlafen, waschen, sterben
+4)Extra: bleiben, passieren, geschehen.
+
+
+Lokalpräpositionen (Ort)
+in (Gebaüde, etwas geschlossenes):in Deutschland, in der Schule/im Restaurant
+Wir benutzen Dativ mit in/im
+in der(die)
+im (der/das)
+bei (Menschen, Personnen, Situationen, Termine):bei Sofia/bei meinen Eltern/beim Arzt/ beim Sport
+Wir benutzen Dativ mit bei/beim:
+bei der(die)
+beim der das
+zu (Richtung:Wohin?):zu Aldi/ich gehe zum 
+Jobcenter/zur Schule
+Wir benutzen Dativ mit zur/zum
+zur (die)
+zum (der das)
+nach (Richtung:aber nur bei Stadt/Land): nach Magdeburg/nach Spanien
+auf (drauBen, etwas offenes oft:bei Fest):auf Sylt(insel)/auf dem Markt/auf der Baustelle/immer mit platz(auf der Marktplatz)/auf der 
+Party
+Wir benutzen auf mit Dativ:
+auf der: die 
+auf dem: der das
+an (meistens mit Wasser):and der Elbe/and der Ostsee/am Strand/am Fluss/am Barleber See
+Wir benutzen an mit Dativ:
+an der:die
+am 	  :der das
+Lokalprapositionen mit Akkusativ
+in die 
+in den 
+ins (das)
+zur, zum, zum
+auf die
+auf den
+auf das
+an die Ostsee
+an den Ozean
+an das Meer
+
+
+Relätivsätze
+Relativsätze im Nominativ
+We make Relativsätze im Nominativ by taking (Relativpronommen) and 
+Die Anzeige ist ein kurzer Text. Der text steht in der Zeitung
+Die Anzeige ist ein kurzer Text, der in der zeitung steht
+1)Die Gebärdensprache ist eine Sprache. Die Sprache nutzen gehörlose Menschen
+Die Gebärdensprache ist eine, die gehörlose Meschen nutzen.
+2)Der Privatunterricht ist ein Unterricht. Er findet nicht in der Schule statt.
+Der Privatunterricht ist ein Unterricht, der nicht in der Schule stattfindeе .
+f 
+Relativsätze mit Dativ
+Nom 		Dativ 	Relativpronommen
+der 		dem	 	dem 
+das			der 	dem 
+die  		der 	der 
+die(Pl.) 	den 	dennen
+
+Wortbildung
+Nomen auf Verben 
+der (oft Personnen)		das			die(-und
+			  							-schaft
+										keit/heit)
+
+der Erfinden 	 das Erdinen	 die Erfindung
+				das Speichern	 die Produktion
+
+
+Passive
+werden 
+ich 		werde 
+du 			wirst
+er/sie/es 	wird
+wir 		werden
+ihr 		werdet 
+sie 		werden
+
+von…
+Partizip II
+beim Partizp II haben wir prefix: be-, ge-, er-, ver-, zer-, emp-,ent-, mis––– KEIN -GE.
+und manchmal benutzen -ieren
 
