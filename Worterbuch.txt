@@ -257,6 +257,8 @@ die Arbeitsunfähigkeitbescheidigung () - certificate of disability
  	anstrengend () - stressful, strenuous
  	fehlend (無くなる) - missing
  	dass () - that
+
+
 sich beeilen () - to hurry
 	schwanger () - pregnant
 sich freuen (嬉しい) - to be glad
@@ -573,10 +575,11 @@ die Bühne () - scene, stage
 Gern geschehen () -  you're welcome 
 Ermäßigung ()-  discount
 Veranstalltung () - event (festival), viele Kulturangebot
+ z
 	weit () - far
 das Verfahren () - process (in a way how smth works, details)
 das Ablauf () - what happened (as in schedule or situation)
-dar Vorgang () - also what happened (can be used with schedules and situations)
+dar Vorgang () - process, procedure
 etwas bestätigen () - 
 die Zukunft (未来) - future
 die Vergangenheit () - past
@@ -723,3 +726,16 @@ etwas herausgefunden () - to find smth out
 	flaumig () - cottony, fluffy
 	verfeinert () - refined, improved
 der Verbrecher () - felon, criminal, delinquent
+etwas überziehen () - to coat with smth
+etwas besorgen () - to get, to procure, to provide
+aufwachsen - to grow up.
+sich Haare kämmern ()- to comb ones hair
+das Zeitalter () - epoch, era
+das Zeitform () - tense (grammatik)
+die Elternzeit ()- parental leave
+	kaum - hardly, little
+	losgehen - starten
+	rechtzeitig - punctual
+etwas verwechseln - to confuse smth
+	durchschnittlich - average
+	während - during
