@@ -402,3 +402,5 @@ haben(für+Akk.)
 brauchen(für+Akk) 
 verbringen(mit+Dat.)
 verwenden (für+Akk.)
+
+
