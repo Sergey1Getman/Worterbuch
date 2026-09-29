@@ -403,4 +403,11 @@ brauchen(für+Akk)
 verbringen(mit+Dat.)
 verwenden (für+Akk.)
 
+Höfliche tips geben:
+könnte 
+sollte
+müsste
+Ich finde…
+ich denke…
+
 

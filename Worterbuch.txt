@@ -214,7 +214,7 @@ der Touristenfuhere (観光ガイド) - tourist guide
 das Boot (船) - boat
 die Geschichte (歴史)ー history
 die Schürze (kana) - apron
-	gedankenversunken (考え事にふける) - deep in thought
+	gedankenversinken (考え事にふける) - deep in thought
 	nachdenklich (思慮深い) - thoughful
 	27.08.2026
 	kontrollieren (確かめる) - to check smth
@@ -502,6 +502,7 @@ der Bart () - beard
 	klug () - smart, clever
 jmnd wechseln() - to change smth
 sich beeilen () - to hurry
+Kentnisse erweitern - to expand your knowledge 
 die Wissenschaft () - science
 die Geschtalt () - image
 	Geschtalter () - to create
@@ -716,7 +717,7 @@ etwas rühren () - to stir smths
 Herstellung () - production
 der Pfeffer () - pepper
 	damals ()- at that time
-	ziemlich () - quite, rather, fairly
+	ziemlich () - quite, rather, fairly (90% von sehr viel)
 	dabei () - result of something(process)
 	verwendet () - used
 	erfolgreich() - successful 
@@ -774,7 +775,6 @@ die	Auseinandersetzung - 1. conflict, diskussion, 2. to investigate some thema.
 der Klatsch - gossip
  	lästern - to gossip
 der Bericht - report
-	beri
 die Aussage - statement
 der Brauch - tradition, custom
 sich anfühlen - to feel like
@@ -803,9 +803,43 @@ der Streit - argument
 etwas stört jmdn- smth worry smbd
 	klauen - to steal smth
 	beteilgt - involved
-	abheben - to take out (from banks balance ususally)
+	abheben - to take out (from banks balance ususally)а
 	ausgeben - to spend smth(usually with money)
 	fressen - to feed somebody smth
 	die Werbebranche - advertising industry
 der Druck - pressure
 der Zeitdruck - time pressure
+die Hoffnung - hope
+	aufressen - to devour
+	Auftrag - assignment, ordexr 
+	voranbringen - to promote, to advance 
+	Langfristig - long-term
+	vereinbaren - to arrange smth
+die Absage - refusal 
+	mittlerweile - in the meantime
+die Entscheidung - decision
+der Sinn(2nd meanning) - meaning, sense.
+der Ausgliech - balance, compensation
+	übertragen - to transfer (money, info etc)
+	faul - lazy
+die Fernbedienung - remote
+	zappen - scroll through channels on the tv
+	reden - sprechen, talking
+die Fernbeziehung - long-distance relationship
+das Schuhgeschäft - shoe-shop
+	mühelos - effortless
+die Parklücke- park place
+	ständig - negatives immer (constantly)
+das Kumpeln - crony, fellow
+	gefühlvoll - full of emotions
+	erziehen - to bring up
+	heutzutage - nowadays
+	Gegenstand - thing, item (B1 dinge)
+	schlicht - simple, plain
+das Geige - violin
+etwas beeinflussen - to influence smth
+etwas versuchen - to try, to attempt (mostly with übung)
+	überwiegend - predominant 
+	aufwändig - expensive, costly
+	aufwöndig - laborious, important (mostly with jobs)
+	selbstbewusst - self-assured, self-confident
