@@ -12,3 +12,7 @@ enkennen	 	erkannte		erkant
 einladen 		lud ein 		eingeladen
 hinterlassen 	hinterlassen	hinterließ
 will			wollte 			gewollt
+gefallen 	 	gefill 			gefallen
+tragen			trug			getragen
+kümmern 		kümmerte		gekümmert
+unterbreche		unterbracht		unterbrochen

@@ -331,7 +331,6 @@ der Kassenzettel () - check
 	umtauschen () - to change, to replace
 	Tierarzt () - vet
 	unglaublich () - unbelivable, amazing
-	zufrieden () - satisfied
 	wertvolle () - valuable, precious
 	weiterleiten () - to transmit, to relay
 	berühmt () - famous 
@@ -356,8 +355,9 @@ der Held (勇者) - hero
 zu (jmnd)begleiten () - to accompany someone 
 die Erkenntnis () - insight 
 der Ehestreit () - domestic quarrel
-	rastlos () - unresting (not for anki)
+	rastlos () - unresting 
 die Rache () - vengeance
+30.09.2026
 Schauergeschichte () - horror story 
 die Vernichtung () - destruction 
 	Heilige () - saint
@@ -375,10 +375,10 @@ sich beschweren () - to complain
 	shreckliche () - awful
 das Angeln () - fishing
 	reiten () - hobby-horsing
-das Pferd () -  horse
 das Mitglied () - member
-	freiwillg () - voluntarily
+	freiwillig () - voluntarily
 	sterben () - to die (of smth)
+07.10.2026
 	meinen () - (opinion)etwas denken und sagen
 	plötzlich () - suddenly 
 	sBeraten () - advisor(einen person die ihnen informationen gibt oder hilft)
@@ -670,6 +670,8 @@ Folgen ()- episode (of Tv series)
 die Erbse () - 
 die Liebesfilm ()- romance movie
 die Schuld ()- fault 
+die Ernährung - nutrition, suntenanse
+die Eisenbahn - railway
 	verzweifelt ()- desperate
 sich zurechtfinden ()- to orient oneself
 das Schicksal ()- fate
@@ -843,3 +845,44 @@ etwas versuchen - to try, to attempt (mostly with übung)
 	aufwändig - expensive, costly
 	aufwöndig - laborious, important (mostly with jobs)
 	selbstbewusst - self-assured, self-confident
+	einschlafen - to fall asleep.
+	ehemalig - former, -ex smth
+	Ehlichkeit - kindness
+	staubsagen - to vacuum in apartment.
+	bügeln - to iron smth
+	abwaschen - to do the dishes
+	durchgeführt - 
+das Geschäft - buisness
+	froh - glad
+	ständig - constant
+	sinnvoll - meaningful
+	zusammenziehen - to move in together
+	heiratsantrag - proposal
+sich verloben - to get engaged 
+	einsam - lonely, alone
+	selbstbewusst - self confidence
+	schieben - to push smth
+	rechtmaßig - rightful
+	vertrocknet - to dry up
+die Hände halten - to hold hand
+die Vertretung - substitute, replacement
+das Vorbild - role model, example
+	zurechtkommen - to get along, to manage
+die Leiter - ladder
+über etwas stolpern - to trip, to stumble
+	ausrutschen - to slip
+	stürzen(fallen) - to fall
+sich verletzen - to injure oneself
+sich schneiden - to cut oneself
+sich verbrennen - to burn oneself
+sich (D) etwas brechen - to breat smth
+sich stoßen - to hit oneself on smth
+die Türschwell - door step
+	gewebliche - commercial
+	gesetzliche - state, govenrment issued,legal
+die Behandlung - therapy, treatment
+die Fäuhigkeit - frequency, probability
+	Genossenschaft - collective
+	erleiden - etwas elreiden
+	vor allem auf(besonders) - out of all
+der	Vortrag - lecture, speech
