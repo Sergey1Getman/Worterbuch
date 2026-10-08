@@ -875,7 +875,7 @@ die Leiter - ladder
 sich verletzen - to injure oneself
 sich schneiden - to cut oneself
 sich verbrennen - to burn oneself
-sich (D) etwas brechen - to breat smth
+sich (D) etwas brechen - to break smth
 sich stoßen - to hit oneself on smth
 die Türschwell - door step
 	gewebliche - commercial
@@ -886,3 +886,6 @@ die Fäuhigkeit - frequency, probability
 	erleiden - etwas elreiden
 	vor allem auf(besonders) - out of all
 der	Vortrag - lecture, speech
+der Fleck(en) - droplets of smth
+	schließlich - eventually
+der Gehstock - walking cane
